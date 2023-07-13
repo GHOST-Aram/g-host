@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(166, 165, 165);
+    color: black;
+    padding-inline: 10%;
+    margin: auto;
+    padding-block: 45vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+                'Lucida Grande', 'Lucida Sans Unicode',
+                Geneva, Verdana, sans-serif;       
+}
+h1, footer{
+    text-align: center;
+}
